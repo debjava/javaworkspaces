@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<Organisation>
+    <Name>DDLAB Inc</Name>
+    <TotalEmployees>1000</TotalEmployees>
+    <Description type="IT" unit="Banking">A virtual company</Description>
+    <TurnOver>3000.0</TurnOver>
+    <Employees>
+        <Emp>
+            <Address Type="Permanent">
+                <City>Bolangir</City>
+                <Country>india</Country>
+                <StreetName>M.G.Road</StreetName>
+            </Address>
+            <Age>23</Age>
+            <Id>E-0</Id>
+            <Name>Ename-0</Name>
+            <Salary>1234.55</Salary>
+        </Emp>
+        <Emp>
+            <Address Type="Permanent">
+                <City>Bolangir</City>
+                <Country>india</Country>
+                <StreetName>M.G.Road</StreetName>
+            </Address>
+            <Age>23</Age>
+            <Id>E-1</Id>
+            <Name>Ename-1</Name>
+            <Salary>1234.55</Salary>
+        </Emp>
+    </Employees>
+</Organisation>

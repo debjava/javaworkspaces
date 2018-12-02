@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+
+<web-app xmlns="http://java.sun.com/xml/ns/j2ee" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+	xsi:schemaLocation="http://java.sun.com/xml/ns/j2ee http://java.sun.com/xml/ns/j2ee/web-app_2_4.xsd"
+	version="2.4">
+	
+	<display-name>osgiweb</display-name>
+	<servlet>
+		<servlet-name>osgiweb</servlet-name>
+		<servlet-class>com.ddlab.rnd.osgi.web.CheckServlet</servlet-class>
+	</servlet>
+
+	<servlet-mapping>
+		<servlet-name>osgiweb</servlet-name>
+		<url-pattern>/osgiweb</url-pattern>
+	</servlet-mapping>
+
+	<welcome-file-list>
+		<welcome-file>webpage.jsp</welcome-file>
+	</welcome-file-list>
+
+</web-app>

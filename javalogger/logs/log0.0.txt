@@ -1,0 +1,12 @@
+13 Sep, 2013 8:31:28 PM com.ddlab.rnd.java.logger.SampleApplication showLogMsgs
+INFO: It is an info message
+13 Sep, 2013 8:31:28 PM com.ddlab.rnd.java.logger.SampleApplication showLogMsgs
+SEVERE: It is an Exception or an Error message
+13 Sep, 2013 8:31:28 PM com.ddlab.rnd.java.logger.SampleApplication showLogMsgs
+WARNING: It is a warning message
+13 Sep, 2013 8:31:28 PM org.some.third.party.ThirdPartySample show
+INFO: It is an info message from third party
+13 Sep, 2013 8:31:28 PM org.some.third.party.ThirdPartySample show
+SEVERE: It is an Exception or an Error message from third party
+13 Sep, 2013 8:31:28 PM org.some.third.party.ThirdPartySample show
+WARNING: It is a warning message from third party

@@ -1,0 +1,18 @@
+Manifest-Version: 1.0
+Built-By: PIKU
+Build-Jdk: 1.7.0_45
+Bundle-ClassPath: .,WEB-INF/classes
+Created-By: 1.7.0_45 (Oracle Corporation)
+Tool: Bnd-0.0.357
+Bundle-Name: osgiweb1
+Web-ContextPath: /osgiweb
+Require-Bundle: ch.qos.logback.core;bundle-version="1.0.7",jsonedit-co
+ re;bundle-version="0.9.7"
+Bundle-Version: 0.0.1.SNAPSHOT
+Bnd-LastModified: 1403455152454
+Bundle-ManifestVersion: 2
+Import-Package: com.ddlab.rnd.osgi.api.impl;version="0.0",javax.servle
+ t;version="3.1",javax.servlet.http;version="3.1.0",org.osgi.framework
+ ;version="1.5"
+Bundle-SymbolicName: osgiweb1
+

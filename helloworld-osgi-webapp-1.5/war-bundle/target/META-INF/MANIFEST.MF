@@ -1,0 +1,19 @@
+Manifest-Version: 1.0
+Export-Package: com.sun.jersey.samples.helloworld;uses:="javax.ws.rs,j
+ avax.servlet,org.osgi.service.event,org.osgi.framework";version="1.5"
+Webapp-Context: helloworld
+Tool: Bnd-0.0.357
+Bundle-Name: Helloworld OSGi WebApp - Jersey Sample WAR
+Created-By: 1.7.0_45 (Oracle Corporation)
+Web-ContextPath: helloworld
+Bundle-Version: 1.5
+Bnd-LastModified: 1396796858915
+Bundle-ManifestVersion: 2
+Bundle-Activator: com.sun.jersey.samples.helloworld.WebAppContextListe
+ ner
+Import-Package: com.sun.jersey.api.core,com.sun.jersey.samples.hellowo
+ rld;version="1.5",com.sun.jersey.spi.container.servlet,javax.servlet,
+ javax.ws.rs,org.osgi.framework;version="1.5",org.osgi.service.event;v
+ ersion="1.2"
+Bundle-SymbolicName: war-bundle
+

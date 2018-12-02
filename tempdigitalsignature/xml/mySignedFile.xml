@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?><Organisation>
+    <Name>DDLAB Inc</Name>
+    <TotalEmployees>1000</TotalEmployees>
+    <Description type="IT" unit="Banking">A virtual company</Description>
+    <TurnOver>3000.0</TurnOver>
+    <Employees>
+        <Emp>
+            <Address Type="Permanent">
+                <City>Bolangir</City>
+                <Country>india</Country>
+                <StreetName>M.G.Road</StreetName>
+            </Address>
+            <Age>23</Age>
+            <Id>E-0</Id>
+            <Name>Ename-0</Name>
+            <Salary>1234.55</Salary>
+        </Emp>
+        <Emp>
+            <Address Type="Permanent">
+                <City>Bolangir</City>
+                <Country>india</Country>
+                <StreetName>M.G.Road</StreetName>
+            </Address>
+            <Age>23</Age>
+            <Id>E-1</Id>
+            <Name>Ename-1</Name>
+            <Salary>1234.55</Salary>
+        </Emp>
+    </Employees>
+<Signature xmlns="http://www.w3.org/2000/09/xmldsig#"><SignedInfo><CanonicalizationMethod Algorithm="http://www.w3.org/TR/2001/REC-xml-c14n-20010315"/><SignatureMethod Algorithm="http://www.w3.org/2000/09/xmldsig#rsa-sha1"/><Reference URI=""><Transforms><Transform Algorithm="http://www.w3.org/2000/09/xmldsig#enveloped-signature"/></Transforms><DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha1"/><DigestValue>pfr74t+wV1UkEU1wel+6umyNXJI=</DigestValue></Reference></SignedInfo><SignatureValue>CrONQALnJXd5YO/L76urqE8BpC1JxovjZ6SoxIl9qONcDfeMTFwCQm9rkTed0Qjbq21M+wEQTYIo
+9A26qKfuXnz0yropaNG3Davzua0gDqe19zQGkDdaiSXbDw244ARUjc8wSslUB79bxddDylxrtxdu
+st1pNCN2DH/S/HkrAUY=</SignatureValue><KeyInfo><KeyValue><RSAKeyValue><Modulus>rHSvPSoOqb6wnjMXCMUHBc70KeBNKAW3416qBAXnPnDav8++nnVxiyOg30uFwrKFp3rIBgBlMAwi
+vpoSauazTzshxWHpvOmw1mNxvvC4cCIwGijOmTQ4tUJofCSkWiA8IyTBWy6U0nMszCoVDEBiKKjU
+wfSsrqHau0H+RZaAW1U=</Modulus><Exponent>AQAB</Exponent></RSAKeyValue></KeyValue></KeyInfo></Signature></Organisation>
